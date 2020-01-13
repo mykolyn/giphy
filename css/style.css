@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 12px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 25px;
+    cursor: pointer;
+
+    /* hover animation */
+    opacity: 1;
+    transition: 0.3s;
+  }
+
+button:hover {opacity: .6;
+}
